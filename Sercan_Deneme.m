@@ -1,1 +1,1 @@
-%deneme_01
+%deneme_02
